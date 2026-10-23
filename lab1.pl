@@ -67,6 +67,41 @@ owoc(sliwka).
 kolor(jablko,czerwony).
 kolor(gruszka,zielony).
 kolor(sliwka,fioletowy).
+cw1.5 x to nie jest zmienna a X to zmienna
+*/ 
+
+cw 2.1,2.2, 
+posiada(anna,ksiazka(hobbit,tolkien)).
+posiada(marek,ksiazka(diuna,herbert)).
+posiada(anna,ksiazka(solaris,lem)).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
