@@ -32,6 +32,41 @@ lubi(jan,ryby).
 lubi(jan,muzyka).
 lubi(anna,czekolada).
 lubi(anna,muzyka).
+lubi(jan,ryby).
+lubi(jan,muzyka).
+lubi(anna,czekolada).
+lubi(anna,muzyka).
+*/
+/*
+pogoda(lublin,lato,cieple).
+pogoda(lublin,zima,umiarkowana).
+pogoda(kair,lato,upalne).
+pogoda(kair,zima,bardzo_ciepla).
+pogoda(pekin,lato,upalne).
+pogoda(pekin,zima,chlodna).
+pogoda(jakutsk,lato,umiarkowane).
+pogoda(jakutsk,zima,bardzo_mrozna).
+*/
+/*
+bodziec(dzwonek).
+bodziec(szept).
+bodziec(lampa).
+kanal(dzwonek,sluch).
+kanal(szept,sluch).
+kanal(lampa,wzrok).
+kanal(nagranie,sluch).
+natezenie(dzwonek,glosny).
+natezenie(szept,cichy).
+natezenie(lampa,jasny).
+natezenie(nagranie,glosny).
+*/
+
+owoc(jablko).
+owoc(gruszka).
+owoc(sliwka).
+kolor(jablko,czerwony).
+kolor(gruszka,zielony).
+kolor(sliwka,fioletowy).
 
 
 
